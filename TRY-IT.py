@@ -7,5 +7,5 @@ if bit == '64bit':
     from TRY import main
     main()
 elif bit == '32bit':
-    from gift import main
+    from TRY import main
     main()
